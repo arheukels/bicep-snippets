@@ -1,2 +1,1 @@
 # bicep-snippets
-Bicep snippets
