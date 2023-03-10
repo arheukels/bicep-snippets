@@ -1,4 +1,3 @@
-
 //New-AzSubscriptionDeployment -Location westeurope -TemplateFile .\main.bicep
 targetScope='subscription'
 
